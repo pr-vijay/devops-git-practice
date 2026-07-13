@@ -1,1 +1,1 @@
-logging.enabled = true 
+version = 1.0
